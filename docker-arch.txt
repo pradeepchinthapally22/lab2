@@ -1,0 +1,29 @@
+Commands controlling transitions:
+docker run      # Create and start a container
+docker stop     # Stop a running container
+docker start    # Restart a stopped container
+docker rm       # Remove a container
+
+
+sudo apt update
+sudo apt install docker.io -y
+sudo systemctl start docker
+sudo systemctl enable docker
+docker --version
+
+docker images
+
+docker pull nginx
+
+
+run docker:
+docker run -d -p 8080:80 nginx
+
+containers: 
+docker ps
+docker ps -a
+
+Manage the Container Life Cycle:
+docker stop <container_id>
+docker start <container_id>
+docker rm <container_id>
