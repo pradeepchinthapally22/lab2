@@ -1,15 +1,3 @@
-Here’s a **well-formatted and refined version** of your **DevOps Tools Lab Record for Week-9 (Puppet)** — suitable for inclusion in your lab manual or report submission.
-
----
-
-## **Laboratory Record of DevOps Tools Lab**
-
-**Date:** 17/10/2025
-**Register No:** 160122733037
-**Week:** 9
-
----
-
 ### **Aim:**
 
 To install and configure a **pull-based Software Configuration Management and provisioning tool using Puppet**.
